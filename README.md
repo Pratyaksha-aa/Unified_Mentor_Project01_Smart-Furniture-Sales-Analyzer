@@ -1,4 +1,5 @@
 🪑 Smart Furniture Sales Analyzer
+
 📌 Project Summary
 Smart Furniture Sales Analyzer is a beginner-friendly data analytics project using an e-commerce furniture dataset. It helps sellers understand how price and shipping options influence sales, and provides a live sales prediction tool based on product details like title, price, and shipping type.
 
@@ -31,21 +32,22 @@ pip install -r requirements.txt
 3. Launch the Streamlit app
 streamlit run app.py
 Or (if streamlit command isn't recognized):
-
-python -m streamlit run app.py
+    python -m streamlit run app.py
 
 🔍 File Structure
 📦 furniture-sales-analyzer
-├── ecommerce_furniture_dataset_2024.csv  # Main dataset
-├── app.py                                # Streamlit app code
-├── requirements.txt                      # Python dependencies
-└── README.md                             # You're reading this ✨
+ecommerce_furniture_dataset_2024.csv
+app.py
+requirements.txt
+README.md                            
+
 📊 Screenshots 
 
 ![Screenshot 2025-07-02 191638](https://github.com/user-attachments/assets/032ee9ea-5038-4468-8465-9ed8e5531498)
 
 
 ![Screenshot 2025-07-02 191733](https://github.com/user-attachments/assets/d4519bc2-d439-4857-8a1a-507246f8527a)
+
 
 
 💡 Future Ideas
